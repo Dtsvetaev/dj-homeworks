@@ -22,3 +22,4 @@ urlpatterns = [
     path('', books_view, name='books'),
     path('admin/', admin.site.urls),
 ]
+
